@@ -35,8 +35,7 @@ Great for learning, experimentation, and showcasing step-by-step development.
 ---
 
 ## 🧰 Technologies Used  
-- *Python 3*  
-- *Jupyter Notebook*  
+- *Python 3*   
 - *Natural Language Processing (NLP)*  
   - spaCy / NLTK / Transformers (depending on what you used)  
 - *API Integrations*  
